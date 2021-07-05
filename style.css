@@ -4,6 +4,7 @@ body{
     font-family:'Roboto', sans-serif;
     color: rgb(255, 251, 251);
     background-color: rgb(82, 80, 80);
+    margin: 0;
 }
 
 h1{
@@ -15,7 +16,14 @@ h1{
 }
 
 .top-banner{
-    background-image: url(images/top-banner.png);
+    background-image: url(images/top-banner2.png);
+    background-repeat: no-repeat;
+}
+
+.second-banner{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
 
 .half-width{
@@ -61,4 +69,8 @@ h1{
     padding-bottom: 10px;
     border-radius: 10px;
     box-shadow: 5px 5px 8px rgb(37, 37, 37);
+}
+
+#dream-para{
+    padding-right: 12%;
 }
