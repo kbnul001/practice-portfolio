@@ -1,0 +1,60 @@
+
+
+body{
+    font-family:'Roboto', sans-serif;
+    color: rgb(255, 251, 251);
+    background-color: rgb(82, 80, 80);
+}
+
+h1{
+    font-size: 60px;
+}
+
+.orange-color{
+    color: orange;
+}
+
+.half-width{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.justice{
+    text-align: justify;
+    margin-bottom: 5%;
+}
+
+.flex-container{
+    display: flex;
+    margin-bottom: 5%;
+}
+
+.half-width img{
+    width: 90%;
+    padding-top: 6%;
+}
+
+.link-button1{
+    text-decoration: none;
+    color: whitesmoke;
+    background-image: linear-gradient(tomato,orange);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 30px rgb(39, 39, 39);
+}
+
+.link-button2{
+    text-decoration: none;
+    color: whitesmoke;
+    background-image: linear-gradient(to right,purple,tomato);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 8px rgb(37, 37, 37);
+}
