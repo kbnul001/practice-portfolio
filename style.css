@@ -42,7 +42,6 @@ h2{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
-    margin-bottom: 20px;
 }
 
 .fourth-banner{
@@ -64,6 +63,7 @@ h2{
     padding-top: 5%;
     display: flex;
     margin-bottom: 5%;
+    padding-right: 5%;
 }
 
 .flex-container2{
